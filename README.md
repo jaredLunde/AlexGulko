@@ -365,9 +365,9 @@ The meta description tag is half marketing and half SEO. It should be attention 
 - Redirect http://www.alexgulko.com/index.htm to http://www.alexgulko.com
 - Add robots.txt and sitemap.xml files to website
   - [robots.txt](/assets/robots.txt)
-    - Should be available at http://www.alexgulko.com/robots.txt
+    - Should be accessible from http://www.alexgulko.com/robots.txt
   - [sitemap.xml](/assets/sitemap.xml)
-    - Should be available at http://www.alexgulko.com/sitemap.xml
+    - Should be accessible from http://www.alexgulko.com/sitemap.xml
 - Use CloudFlare to set up SSL and protect your website from bots
   - https://www.cloudflare.com/plans/
     - You can have your web developer set you up with the free plan
