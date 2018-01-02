@@ -1,13 +1,17 @@
 ## Title
 
 ### Current
+Alex Gulko: Custom engagement &amp; wedding rings, custom jewelry-Ann Arbor, MI
+
 ```html
   <title>
-    Alex Gulko: Custom engagement & wedding rings, custom jewelry-Ann Arbor, MI
+    Alex Gulko: Custom engagement &amp; wedding rings, custom jewelry-Ann Arbor, MI
   </title>
 ```
 
 ### Recommended
+Alex Gulko Custom Jewelry - Ann Arbor, MI
+
 ```html
   <title>
     Alex Gulko Custom Jewelry - Ann Arbor, MI
@@ -34,7 +38,7 @@ Design your own custom engagement and wedding rings in Ann Arbor, MI.
 ```
 
 ### Recommended
-Custom jewelry as unique as your partner. Show them how special they are to you with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started.
+Custom jewelry as unique as your partner. Show them how special they are with a custom engagement and wedding ring. Meet Alex at our downtown Ann Arbor location today to get started.
 
 ```html
   <meta
@@ -45,6 +49,8 @@ Custom jewelry as unique as your partner. Show them how special they are to you 
 
 ### Why?
 The meta description tag is half marketing and half SEO. It should be attention grabbing, but keyword rich.
+
+
 ----
 
 
@@ -359,4 +365,13 @@ The meta description tag is half marketing and half SEO. It should be attention 
 - Redirect http://www.alexgulko.com/index.htm to http://www.alexgulko.com
 - Add robots.txt and sitemap.xml files to website
   - [robots.txt](/assets/robots.txt)
-  - [sitemap.xml](/sitemap.xml)
+    - Should be available at http://www.alexgulko.com/robots.txt
+  - [sitemap.xml](/assets/sitemap.xml)
+    - Should be available at http://www.alexgulko.com/sitemap.xml
+- Use CloudFlare to set up SSL and protect your website from bots
+  - https://www.cloudflare.com/plans/
+    - You can have your web developer set you up with the free plan
+  - Your URL will go from http://www.alexgulko.com to https://www.alexgulko.com
+  - Why?
+    - [Google values HTTPS sites more](https://searchengineland.com/google-starts-giving-ranking-boost-secure-httpsssl-sites-199446)
+    - It should be an easy change for your developer to make
