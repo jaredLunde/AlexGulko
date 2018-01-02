@@ -544,6 +544,6 @@ Google may interpret this as spam
   - http://www.alexgulko.com/earrings_pendants.htm
     - **Earrings and pendants by Alex Gulko**
   - http://www.alexgulko.com/high_jewelry.htm
-    - **High end custom jewelry - Ann Arbor, MI**
+    - **High-end custom jewelry - Ann Arbor, MI**
   - http://www.alexgulko.com/recent.htm
     - **Recent designs by Alex Gulko**
