@@ -524,7 +524,7 @@ Google may interpret this as spam
   - http://www.alexgulko.com/testimonial.htm
     - **Reviews for Alex Gulko Custom Jewelry**
   - http://www.alexgulko.com/appraisal.htm
-    - **Professional Ann Arbor jewelry appraisal**
+    - **Professional jewelry appraisal in Ann Arbor**
   - http://www.alexgulko.com/pricing_policies.htm
     - **How we price our jewelry**
   - http://www.alexgulko.com/location.htm
