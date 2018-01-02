@@ -516,3 +516,34 @@ Google may interpret this as spam
   - Why?
     - [Google values HTTPS sites more](https://searchengineland.com/google-starts-giving-ranking-boost-secure-httpsssl-sites-199446)
     - It should be an easy change for your developer to make
+- Each page should have a unique `<title>`
+  - http://www.alexgulko.com/about.htm
+    - Learn about Alex Gulko
+  - http://www.alexgulko.com/computer.htm
+    - See your jewelry before it's made
+  - http://www.alexgulko.com/testimonial.htm
+    - Reviews for Alex Gulko Custom Jewelry
+  - http://www.alexgulko.com/appraisal.htm
+    - Professional Ann Arbor jewelry appraisal
+  - http://www.alexgulko.com/pricing_policies.htm
+    - How we price our jewelry
+  - http://www.alexgulko.com/location.htm
+    - Where to find Alex Gulko Custom Jewelry
+  - http://www.alexgulko.com/contact.htm
+    - Contact Us - Alex Gulko Custom Jewelry
+  - http://www.alexgulko.com/engagement_a.htm
+    - Custom antique engagement rings by Alex Gulko
+  - http://www.alexgulko.com/engagement_cl.htm
+    - Custom engagement rings by Alex Gulko
+  - http://www.alexgulko.com/engagement_co.htm
+    - Custom contemporary engagement rings by Alex Gulko
+  - http://www.alexgulko.com/weddingrings.htm
+    - Wedding bands by Alex Gulko
+  - http://www.alexgulko.com/gemstone_rings.htm
+    - Gemstone rings by Alex Gulko
+  - http://www.alexgulko.com/earrings_pendants.htm
+    - Earrings and pendants by Alex Gulko
+  - http://www.alexgulko.com/high_jewelry.htm
+    - High end custom jewelry - Ann Arbor, MI
+  - http://www.alexgulko.com/recent.htm
+    - Recent designs by Alex Gulko
