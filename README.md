@@ -1,4 +1,4 @@
-(hours and address)[https://photos-2.dropbox.com/t/2/AACMrTpwWxHbmJDIeS64kK4zVvUEwGHAQf8gWZUFdnli_Q/12/833165/png/32x32/1/_/1/2/Screenshot%202018-01-02%2011.19.28.png/EMGlZRjq5ucOIAIoAg/JSeXSSjwa3T30JKyek-UbNSAu1TvoO2OHvA8PYrbnvc?preserve_transparency=1&size=800x600&size_mode=3]
+(hours and address)[assets/address.png]
 
 ```html
 <div id="footer_inside_5">
