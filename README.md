@@ -53,7 +53,7 @@ The meta description tag is half marketing and half SEO. It should be attention 
 ----
 
 ## Schema.org scoping
-Should go in the <head/> part of the document
+Should go in the `<head/>` part of the document
 
 ### Recommended
 ```html
@@ -73,7 +73,7 @@ Should go in the <head/> part of the document
 ----
 
 ## Twitter cards
-Should go in the <head/> part of the document
+Should go in the `<head/>` part of the document
 
 ### Recommended
 ```html
@@ -90,7 +90,7 @@ Should go in the <head/> part of the document
 ----
 
 ## Facebook open graph tags
-Should go in the <head/> part of the document
+Should go in the `<head/>` part of the document
 
 ### Recommended
 ```html
