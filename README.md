@@ -43,7 +43,7 @@ Custom jewelry as unique as your partner. Show them how special they are with a 
 ```html
   <meta
     name="description"
-    content="Custom jewelry as unique as your partner. Show them how special they are to you with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started."
+    content="Custom jewelry as unique as your partner. Show them how special they are with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started."
   >
 ```
 
@@ -60,7 +60,7 @@ Should go in the `<head/>` part of the document
 <!-- Schema.org markup for Google+ -->
 <meta itemscope itemtype="http://schema.org/LocalBusiness">
 <meta itemprop="name" content="Alex Gulko Custom Jewelry">
-<meta itemprop="description" content="Custom jewelry as unique as your partner. Show them how special they are to you with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started.">
+<meta itemprop="description" content="Custom jewelry as unique as your partner. Show them how special they are with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started.">
 <meta itemprop="image logo" content="http://www.alexgulko.com/images/header_logo_v2.jpg">
 <meta itemprop="email" content="alexgulko@sbcglobal.net">
 <meta itemprop="telephone" content="7347410652">
@@ -82,7 +82,7 @@ Should go in the `<head/>` part of the document
 <meta name="twitter:site" content="@alexgulkodesign">
 <meta name="twitter:title" content="Alex Gulko Custom Jewelry">
 <meta name="twitter:url" content="http://www.alexgulko.com/">
-<meta name="twitter:description" content="Custom jewelry as unique as your partner. Show them how special they are to you with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started.">
+<meta name="twitter:description" content="Custom jewelry as unique as your partner. Show them how special they are with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started.">
 <!-- Twitter summary card with large image must be at least 280x150px -->
 <meta name="twitter:image:src" content="http://www.alexgulko.com/slide_pics/slide_pic_02c.jpg">
 ```
