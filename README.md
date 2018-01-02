@@ -70,6 +70,10 @@ Should go in the `<head/>` part of the document
 <meta itemprop="photo" content="http://www.alexgulko.com/images/inside_store_v2.jpg">
 ```
 
+### Why?
+It tells Google and Bing stuff it would otherwise have to guess about your business.
+
+
 ----
 
 ## Twitter cards
@@ -86,6 +90,10 @@ Should go in the `<head/>` part of the document
 <!-- Twitter summary card with large image must be at least 280x150px -->
 <meta name="twitter:image:src" content="http://www.alexgulko.com/slide_pics/slide_pic_02c.jpg">
 ```
+
+### Why?
+If someone shares your site on twitter it will display a cool looking card that is a good marketing tool.
+
 
 ----
 
@@ -144,6 +152,10 @@ Should go in the `<head/>` part of the document
   content="-83.7483"
   >
 ```
+
+### Why?
+It tells Facebook stuff it would otherwise have to guess about your business and
+makes sharing your site on Facebook look nice.
 
 
 ----
@@ -218,6 +230,11 @@ Should go in the `<head/>` part of the document
 </nav>
 ```
 
+### Why?
+It tells Google and Bing that this is the main navigation of your site.
+It also changes un-followable `<div/>` tags to followable `<a/>` tags.
+
+
 ----
 
 ## Header
@@ -236,6 +253,9 @@ Should go in the `<head/>` part of the document
   ...
 </header>
 ```
+
+### Why?
+It tells Google and Bing that this is the header of your page.
 
 ----
 
@@ -258,6 +278,10 @@ Should go in the `<head/>` part of the document
 </a>
 ```
 
+### Why?
+It makes your logo clickable which is good for user experience purposes. It also
+provides a nice home link at the top of your page for Google.
+
 ----
 
 ## Main content
@@ -276,6 +300,10 @@ Should go in the `<head/>` part of the document
   <div id="IMG_Main">...</div>
 </main>
 ```
+
+### Why?
+It tells Google and Bing that this is the main content of the current page.
+
 
 ----
 
@@ -296,6 +324,9 @@ Should go in the `<head/>` part of the document
   ...
 </footer>
 ```
+
+### Why?
+It tells Google and Bing that this is the footer of your page.
 
 
 ----
@@ -352,6 +383,12 @@ Should go in the `<head/>` part of the document
   </font>
 </div>
 ```
+
+### Why?
+It provides Google and Bing with your opening and closing hours and also
+makes your telephone number clickable so I can just click the number to call
+you.
+
 
 ----
 
@@ -442,6 +479,12 @@ Should go in the `<head/>` part of the document
 </div>
 ```
 
+### Why?
+It provides Google and Bing with your opening and closing hours, your address information and also
+makes your telephone number clickable so I can just click the number to call
+you.
+
+
 ----
 
 
@@ -452,6 +495,9 @@ Should go in the `<head/>` part of the document
   Serving customers in Michigan: Ann Arbor, Adrian, Brighton, Belleville,  Birmingham, Chelsea, Canton, Dearborn, Farmington Hills, Dexter, Detroit, Grand Rapids, Howell, Jackson, Kalamazoo, Lansing, Midland, Monroe, Novi, Pinckney, Plymouth, Saginaw, Saline, Troy, Ypsilanti, also in Chicago, Toledo, Illinois, Ohio, Indiana.
 </div>
 ```
+
+### Why?
+Google may interpret this as spam
 
 
 ----
