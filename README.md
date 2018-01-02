@@ -1,3 +1,4 @@
+## Store hours and address
 ![hours and address](/assets/address.png)
 
 ### Current
@@ -82,3 +83,7 @@
   </div>
 </div>
 ```
+
+
+## Remove this
+![for removal](/assets/remove-this.png)
