@@ -50,6 +50,40 @@ Custom jewelry as unique as your partner. Show them how special they are with a 
 ### Why?
 The meta description tag is half marketing and half SEO. It should be attention grabbing, but keyword rich.
 
+----
+
+## Schema.org scoping
+
+### Recommended
+```html
+<!-- Schema.org markup for Google+ -->
+<meta itemscope itemtype="http://schema.org/LocalBusiness">
+<meta itemprop="name" content="Alex Gulko Custom Jewelry">
+<meta itemprop="description" content="Custom jewelry as unique as your partner. Show them how special they are to you with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started.">
+<meta itemprop="image logo" content="http://www.alexgulko.com/images/header_logo_v2.jpg">
+<meta itemprop="email" content="alexgulko@sbcglobal.net">
+<meta itemprop="telephone" content="7347410652">
+<meta itemprop="address" content="337 S Main St Ann Arbor, MI  48104-0652">
+<meta itemprop="legalName" content="Alex Gulko Custom Jewelry">
+<meta itemprop="map" content="https://www.google.com/maps?q=alex+gulko+custom+jewelry&um=1&ie=UTF-8&sa=X&ved=0ahUKEwiggtz2hbrYAhVD_4MKHZ6VAJAQ_AUIDygA">
+<meta itemprop="photo" content="http://www.alexgulko.com/images/inside_store_v2.jpg">
+```
+
+----
+
+## Twitter cards
+
+### Recommended
+```html
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@alexgulkodesign">
+<meta name="twitter:title" content="Alex Gulko Custom Jewelry">
+<meta name="twitter:url" content="http://www.alexgulko.com/">
+<meta name="twitter:description" content="Custom jewelry as unique as your partner. Show them how special they are to you with a custom engagement and wedding ring. Come to our downtown Ann Arbor location today to get started.">
+<!-- Twitter summary card with large image must be at least 280x150px -->
+<meta name="twitter:image:src" content="http://www.alexgulko.com/slide_pics/slide_pic_02c.jpg">
+```
 
 ----
 
@@ -57,6 +91,7 @@ The meta description tag is half marketing and half SEO. It should be attention 
 
 ### Recommended
 ```html
+<!-- Open Graph data -->
 <meta
   property="og:image"
   content="http://www.alexgulko.com/slide_pics/slide_pic_02c.jpg"
