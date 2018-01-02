@@ -530,7 +530,7 @@ Google may interpret this as spam
   - http://www.alexgulko.com/location.htm
     - **Where to buy Alex Gulko Custom Jewelry**
   - http://www.alexgulko.com/contact.htm
-    - **Contact Us - Alex Gulko Custom Jewelry**
+    - **Contact Alex**
   - http://www.alexgulko.com/engagement_a.htm
     - **Custom antique engagement rings by Alex Gulko**
   - http://www.alexgulko.com/engagement_cl.htm
