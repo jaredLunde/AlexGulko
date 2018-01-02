@@ -53,6 +53,75 @@ The meta description tag is half marketing and half SEO. It should be attention 
 
 ----
 
+## Facebook open graph tags
+
+### Recommended
+```html
+<meta
+  property="og:image"
+  content="http://www.alexgulko.com/slide_pics/slide_pic_02c.jpg"
+>
+
+<meta
+  property="og:title"
+  content="Alex Gulko Custom Jewelry"
+>
+
+
+<meta
+  property="og:type"
+  content="business.business"
+>
+
+<meta
+  property="business:contact_data:street_address"
+  content="337 S Main St"
+>
+
+<meta
+  property="business:contact_data:locality"       
+  content="Ann Arbor"
+>
+
+<meta
+  property="business:contact_data:region"       
+  content="Michigan"
+>
+
+<meta
+  property="business:contact_data:postal_code"    
+  content="48104-0652"
+>
+
+<meta
+  property="business:contact_data:country_name"  
+  content="United States"
+>
+
+<meta
+  property="business:contact_data:email"    
+  content="alexgulko@sbcglobal.net"
+>
+
+<meta
+  property="business:contact_data:phone_number"    
+  content="7347410652"
+>
+
+<meta
+  property="place:location:latitude"             
+  content="42.2785"
+>
+
+<meta
+  property="place:location:longitude"             
+  content="-83.7483"
+  >
+```
+
+
+----
+
 
 ## Main menu
 ![main menu](/assets/main-menu.png)
