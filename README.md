@@ -1,4 +1,4 @@
-(hours and address)[assets/address.png]
+!(hours and address)[assets/address.png]
 
 ```html
 <div id="footer_inside_5">
