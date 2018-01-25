@@ -100,7 +100,6 @@ It also changes un-followable `<div/>` tags to followable `<a/>` tags.
 ----
 
 ## ~~Main content~~
-![main content](/assets/main-content.png)
 
 ----
 
