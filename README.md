@@ -1,4 +1,4 @@
-## Title
+## ~~Title~~
 
 ### Current
 Alex Gulko: Custom engagement &amp; wedding rings, custom jewelry-Ann Arbor, MI
@@ -25,7 +25,7 @@ There's no use in filling the title with stuff we can include in the description
 ----
 
 
-## Description
+## ~~Description~~
 
 ### Current
 Design your own custom engagement and wedding rings in Ann Arbor, MI.
@@ -52,7 +52,7 @@ The meta description tag is half marketing and half SEO. It should be attention 
 
 ----
 
-## Schema.org scoping
+## ~~Schema.org scoping~~
 Should go in the `<head/>` part of the document
 
 ### Recommended
@@ -76,7 +76,7 @@ It tells Google and Bing stuff it would otherwise have to guess about your busin
 
 ----
 
-## Twitter cards
+## ~~Twitter cards~~
 Should go in the `<head/>` part of the document
 
 ### Recommended
@@ -97,7 +97,7 @@ If someone shares your site on twitter it will display a cool looking card that 
 
 ----
 
-## Facebook open graph tags
+## ~~Facebook open graph tags~~
 Should go in the `<head/>` part of the document
 
 ### Recommended
@@ -237,7 +237,7 @@ It also changes un-followable `<div/>` tags to followable `<a/>` tags.
 
 ----
 
-## Header
+## ~~Header~~
 ![main menu](/assets/header.png)
 
 ### Current
@@ -259,7 +259,7 @@ It tells Google and Bing that this is the header of your page.
 
 ----
 
-## Header logo
+## ~~Header logo~~
 ![main menu](/assets/header-logo.png)
 
 ### Current
@@ -284,7 +284,7 @@ provides a nice home link at the top of your page for Google.
 
 ----
 
-## Main content
+## ~~Main content~~
 ![main content](/assets/main-content.png)
 
 ### Current
@@ -308,7 +308,7 @@ It tells Google and Bing that this is the main content of the current page.
 ----
 
 
-## Footer
+## ~~Footer~~
 ![main menu](/assets/footer.png)
 
 ### Current
@@ -332,7 +332,7 @@ It tells Google and Bing that this is the footer of your page.
 ----
 
 
-## Store Hours
+## ~~Store Hours~~
 ![hours and address](/assets/store-hours.png)
 
 ### Current
@@ -356,7 +356,7 @@ It tells Google and Bing that this is the footer of your page.
 </div>
 ```
 
-### Recommended (http://schema.org/LocalBusiness)
+### ~~Recommended (http://schema.org/LocalBusiness)~~
 ```html
 <div itemscope itemtype="http://schema.org/LocalBusiness" class="header_inside_div hdr3">
   Store&nbsp;Hours:
@@ -393,7 +393,7 @@ you.
 ----
 
 
-## Store hours and address
+## ~~Store hours and address~~
 ![hours and address](/assets/address.png)
 
 ### Current
@@ -424,7 +424,7 @@ you.
 ```
 
 
-### Recommended (http://schema.org/LocalBusiness)
+### ~~Recommended (http://schema.org/LocalBusiness)~~
 ```html
 <div itemscope itemtype="http://schema.org/LocalBusiness" id="footer_inside_5">
   <a href="https://www.google.com/maps?f=d&amp;source=s_q&amp;hl=en&amp;geocode=%3BCdVq_HoGP5PYFW8ehQIdZRkC-ym3lHllPK48iDGiaRW23bqOgA&amp;q=alex+gulko+ann+arbor+michigan&amp;sll=37.0625,-95.677068&amp;sspn=35.410182,56.513672&amp;ie=UTF8&amp;hq=alex+gulko&amp;hnear=Ann+Arbor,+MI&amp;cid=9263546944953084322&amp;t=m&amp;z=14&amp;vpsrc=0&amp;iwloc=A&amp;daddr=Alex+Gulko+Custom+Jewelry,+337+South+Main+Street,+Ann+Arbor,+MI+48104" class="press" style="color:#7AC3E3;" target="_new">
@@ -488,7 +488,7 @@ you.
 ----
 
 
-## Remove this
+## ~~Remove this~~
 ![for removal](/assets/remove-this.png)
 ```html
 <div style="width: 97%; color: #999999; padding: 10px 0px;">
