@@ -180,7 +180,7 @@ makes sharing your site on Facebook look nice.
 </div>
 ```
 
-### Recommended
+### [HIGH PRIORITY] Recommended
 ```html
 <nav class="main_menu_inside">
   <!--div class="main_menu_div m_menu1">&#160;&#160;<img src="./images/home_icon.gif" />&#160;&#160;</div-->
@@ -503,20 +503,20 @@ Google may interpret this as spam
 ----
 
 ## Other tips
-- Redirect http://www.alexgulko.com/index.htm to http://www.alexgulko.com
-- Add robots.txt and sitemap.xml files to website
+- [HIGH PRIORITY] Redirect http://www.alexgulko.com/index.htm to http://www.alexgulko.com
+- [MED PRIORITY] Add robots.txt and sitemap.xml files to website
   - [robots.txt](/assets/robots.txt)
     - Should be accessible from http://www.alexgulko.com/robots.txt
   - [sitemap.xml](/assets/sitemap.xml)
     - Should be accessible from http://www.alexgulko.com/sitemap.xml
-- Use CloudFlare to set up SSL and protect your website from bots
+- [LOW PRIORITY] Use CloudFlare to set up SSL and protect your website from bots
   - https://www.cloudflare.com/plans/
     - You can have your web developer set you up with the free plan
   - Your URL will go from http://www.alexgulko.com to https://www.alexgulko.com
   - Why?
     - [Google values HTTPS sites more](https://searchengineland.com/google-starts-giving-ranking-boost-secure-httpsssl-sites-199446)
     - It should be an easy change for your developer to make
-- Each page should have a unique `<title>`
+- [HIGHEST PRIORITY] Each page should have a unique `<title>`
   - http://www.alexgulko.com/about.htm
     - **Learn about Alex Gulko**
   - http://www.alexgulko.com/computer.htm
